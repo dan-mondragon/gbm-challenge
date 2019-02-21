@@ -9,7 +9,7 @@ Challenge for gbm
 ## How To Run
 * Open solution in Visual Studio 2017
 * Set Challenge.Api Web Api project as Startup Project and build the project.
-* Open the "Package Manager Console" and run: "update-database" command to generate database and seeders.
+* Open the "Package Manager Console", selecting "Challenge.Data" as default project and run: "update-database" command to generate database and seeders.
 * Run the application.
 
 ### API Rest
